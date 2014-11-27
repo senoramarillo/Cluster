@@ -1,0 +1,9 @@
+Die Firma EuroDNS mit Sitz in Luxemburg hat eine Marktanalyse durchgeführt, die aufzeigt, dass es über 225 Millionen Internetnutzer in zwei Hauptmärkten Asiens gibt - China und Indien. Bis heute sind jedoch nur circa sieben Millionen Domains registriert worden. 
+Bei einer Betrachtung der registrierten Domains im Verhältnis zu der Anzahl der Internetuser und der Einwohner erkennt man schnell ein enormes Potential, denn es ist nur ein Bruchteil dessen, was wir von Europa oder den USA kennen. 
+Zu den derzeit beliebtesten asiatischen Country-Code-Top-Level-Domains gehören: 
+* .in - Indien
+* .hk - Hong Kong
+* .cn - China
+* .sg - Singapur
+* .jp - Japan
+* .com.tw - Taiwan

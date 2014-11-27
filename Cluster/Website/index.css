@@ -1,0 +1,12 @@
+body {
+	font-family: sans-serif;
+}
+td {
+	vertical-align: top;
+}
+#displayDocuments {
+	width: 600px;
+	height: 600px;
+	overflow: scroll;
+}
+
